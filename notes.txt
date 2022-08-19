@@ -1,0 +1,5 @@
+This is a text editor.
+
+Add an update.
+
+Here's another update
